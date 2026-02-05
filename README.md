@@ -1,4 +1,5 @@
 # IT-Expenditure-Analysis
+End-to-end Power BI project analyzing IT expenditure with variance analysis across regions and IT areas.
 # Overview
 This project analyzes IT expenditure performance by comparing Actual, Forecast, and Planned spending using Power BI.
 The goal is to identify budget variances, understand cost drivers, and support better IT financial planning and control.
